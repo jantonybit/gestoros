@@ -3,7 +3,7 @@
 Ultima atualizacao: 10 de outubro de 2026
 
 Este Contrato de Licenca de Usuario Final ("Contrato") e celebrado entre voce
-("Usuario") e **SEU NOME / EMPRESA** ("Licenciante") e rege o uso do aplicativo
+("Usuario") e **jantonybit** ("Licenciante") e rege o uso do aplicativo
 **GestorOS** ("Aplicativo"), obtido por meio da Microsoft Store.
 
 Ao instalar, copiar ou utilizar o Aplicativo, o Usuario concorda com os termos
