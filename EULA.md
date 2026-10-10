@@ -58,4 +58,4 @@ Este Contrato e regido pelas leis da Republica Federativa do Brasil. Fica eleito
 o foro do domicilio do Licenciante para dirimir eventuais controversias.
 
 ## 10. Contato
-Duvidas sobre este Contrato: **SEU-EMAIL@EXEMPLO.COM**.
+Duvidas sobre este Contrato: **jantonybit@gmail.com**.
